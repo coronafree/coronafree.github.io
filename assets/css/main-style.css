@@ -113,12 +113,12 @@ body {
 }
 
 ::selection {
-  background: #ff589e;
+  background: #3333ff;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #ff589e;
+  background: #3333ff;
   color: #fff;
 }
 
@@ -327,7 +327,7 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #666699;
+  background-color: #654BBA;
 }
 
 a.main-button {
@@ -345,7 +345,7 @@ a.main-button {
 }
 
 a.main-button:hover {
-  background-color: #ff589e;
+  background-color: #3333ff;
 }
 
 button.main-button {
@@ -366,7 +366,7 @@ button.main-button {
 }
 
 button.main-button:hover {
-  background-color: #ff589e;
+  background-color: #654BBA;
 }
 
 
@@ -450,7 +450,7 @@ header
 }
 
 .header-area .main-nav .nav li a:hover {
-  color: #ff589e;
+  color: #3333ff;
 }
 
 .header-area .main-nav .menu-trigger {
@@ -562,7 +562,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #ff589e;
+  color: #3333ff;
 }
 
 @media (max-width: 1200px) {
@@ -1201,7 +1201,7 @@ team
   display: block;
   font-weight: 400;
   font-size: 15px;
-  color: #ff589e;
+  color: #3333ff;
   letter-spacing: 0.25px;
 }
 
@@ -1240,7 +1240,7 @@ pricing
 }
 
 .pricing-item.active .pricing-body .price-wrapper {
-  background-color: #ff589e;
+  background-color: #3333ff;
 }
 
 .pricing-item.active .pricing-body .price-wrapper .currency {
@@ -1377,7 +1377,7 @@ blog
 }
 
 .blog-post-thumb h3 a:hover {
-  color: #ff589e;
+  color: #3333ff;
 }
 
 .blog-post-thumb .text {
@@ -1501,7 +1501,7 @@ footer .social li a {
 }
 
 footer .social li a:hover {
-  background-color: #ff589e;
+  background-color: #654BBA;
   color: #fff;
 }
 
