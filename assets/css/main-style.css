@@ -188,10 +188,9 @@ body {
 }
 
 .largeheader {
-	color: white;
-	position: relative;
-	top: -40%;
-	left: 0%;
+	color: white !important;
+	position: relative !important;
+	top: -40% !important;
 	font-weight: bold;
 }
 
